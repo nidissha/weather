@@ -1,0 +1,6 @@
+Desktop/
+│── app.py
+│── weather_model.pkl
+│── weather_data.csv
+└── templates/
+    └── index.html
